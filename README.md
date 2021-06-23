@@ -18,7 +18,16 @@ Este es un proyecto de Tesis.
 
 ## Desktop
 
+<img width="800px" src="./images/registro.png" />
+<div>
+<img width="400px" src="./images/home.png" />
 <img width="400px" src="./images/perfil.png" />
+</div>
+<p>------------------------------------------------------------------------------------------------------------------------------</p>
+<div >
+<img width="800px" src="./images/buscador.png" />
+<img width="400px" src="./images/misobras.png" />
+</div>
 
 ## Autor
 
