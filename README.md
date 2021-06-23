@@ -10,7 +10,7 @@ Fue creada a partir de la necesidad de las personas de obtener un espacio de
 libre expresión a través de las palabras, puesto que en Chile no se
 estimula el acercamiento de las personas a la literatura. 
 
-Este es un proyecto de Tesis.
+**Este es un proyecto de Tesis.**
 
 <div align="center">
 <img width="400px" src="./images/portada.PNG"/>
@@ -26,10 +26,14 @@ Este es un proyecto de Tesis.
 <p>------------------------------------------------------------------------------------------------------------------------------</p>
 <div >
 <img width="800px" src="./images/buscador.png" />
-<img width="400px" src="./images/misobras.png" />
+</div>
+<p>------------------------------------------------------------------------------------------------------------------------------</p>
+<div >
+<img width="500px" src="./images/calificar.png" />
+<img width="300px" src="./images/misobras.png" />
 </div>
 
-## Autor
+## ♥️ Autores
 
 * **<Maritza Loaiza>**  [@Maritza_Loaiza](https://github.com/Maritza7395)
 
