@@ -1,4 +1,4 @@
-    <div align="center">
+<div align="center">
 <img width="120px" src="./images/logo.png" />
 </div>
 
@@ -12,11 +12,13 @@ estimula el acercamiento de las personas a la literatura.
 
 Este es un proyecto de Tesis.
 
-<img width="200px" src="./images/portada.png" />
+<div align="center">
+<img width="400px" src="./images/portada.PNG"/>
+</div>
 
 ## Desktop
 
-<img width="200px" src="./images/perfil.png" />
+<img width="400px" src="./images/perfil.png" />
 
 ## Autor
 
