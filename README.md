@@ -9,6 +9,8 @@
 Fue creada a partir de la necesidad de las personas de obtener un espacio de
 libre expresión a través de las palabras, puesto que en Chile no se
 estimula el acercamiento de las personas a la literatura. 
+Este proyecto además incluye una tecnología de vanguardia, dado que las personas tienen
+la opción de escribir por medio de dictado de voz, con comandos personalizables.
 
 **Este es un proyecto de Tesis.**
 
