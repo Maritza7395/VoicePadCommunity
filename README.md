@@ -37,6 +37,6 @@ la opción de escribir por medio de dictado de voz, con comandos personalizables
 
 ## ♥️ Autores
 
-* **<Maritza Loaiza>**  [@Maritza_Loaiza](https://github.com/Maritza7395)
+* **<Maritza Loaiza>**  [@Maritza_Loaiza](https://github.com/mloaizau)
 
 * **<Johanna Flores>**  [@Johanna_Flores](https://github.com/jhFlores15)
